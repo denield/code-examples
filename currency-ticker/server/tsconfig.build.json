@@ -1,0 +1,7 @@
+{
+  "extends": "./tsconfig.core.json",
+  "include": ["src"],
+  "compilerOptions": {
+    "outDir": "./build"
+  }
+}
